@@ -1,0 +1,60 @@
+html {
+  background-color: #7289da;
+  background-image: url(img/garena-free-fire-emerges-as-most-downloaded-mobile-game-for-october.webp);
+  background-repeat: no-repeat;
+  background-size: 39cm;
+  background-position: center;
+}
+
+.main {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border: 5px solid black;
+  padding: 10px;
+  width: 500px;
+  margin: 50px auto;
+  border-radius: 20px;
+  background-color: #36393e;
+  color: white;
+  text-align: center;
+  height: 20cm;
+}
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border: 5px solid black;
+  padding: 10px;
+  width: 500px;
+  margin: 50px auto;
+  border-radius: 20px;
+  background-color: #36393e;
+  color: white;
+  text-align: center;
+  height: 20cm;
+}
+h1 {
+  color: white;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+h2 {
+  color: white;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+header {
+  text-align: center;
+  padding: 10px 10px 20px;
+  background-color: #36393e;
+}
+
+.nav a {
+  margin: 0px 25px;
+  color: white;
+  text-decoration: none;
+}
+.nav :hover {
+  text-decoration: underline;
+}
